@@ -1,5 +1,10 @@
-Saved/
+﻿Saved/
 Intermediate/
 DerivedDataCache/
 Binaries/
 .vs/
+*.sln
+*.opensdf
+*.sdf
+*.suo
+*.user
