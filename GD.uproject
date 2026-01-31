@@ -18,7 +18,7 @@
 		},
 		{
 			"Name": "LudusAI",
-			"Enabled": false
+			"Enabled": true
 		}
 	]
 }
